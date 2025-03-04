@@ -45,7 +45,7 @@ export default function FooterSection() {
             >
               <h3 className="text-3xl font-extrabold text-white mb-4">
                 <span className="bg-gradient-to-r from-indigo-400 to-teal-400 text-transparent bg-clip-text">
-                  Your Name
+                  Prateek Mani Tripathi
                 </span>
               </h3>
               <p className="text-gray-400 text-sm mb-6">

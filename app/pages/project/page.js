@@ -13,8 +13,8 @@ const projects = [
       'A flagship full-stack application built with Next.js, featuring real-time appointment booking and slot availability using WebSockets. Integrated NextAuth and JWT for secure authentication, Node.js + Express for the backend, and EmailJS for notifications. All data is stored in MongoDB.',
     tech: ['Next.js', 'NextAuth', 'JWT', 'Node.js', 'Express', 'MongoDB', 'WebSocket', 'EmailJS'],
     image: 'https://images.unsplash.com/photo-1585747860715-2ba37e788b70?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80', // Placeholder: Barber-related image
-    liveLink: 'https://your-barber-shop-link.vercel.app', // Replace with your live link
-    githubLink: 'https://github.com/yourusername/barber-shop', // Replace with your GitHub link
+    liveLink: 'https://full-stack-barber.vercel.app', // Replace with your live link
+    githubLink: 'https://github.com/prateekmtri/full-stack-barber', // Replace with your GitHub link
   },
   {
     title: 'JWT Authentication System',
@@ -22,8 +22,8 @@ const projects = [
       'A secure authentication system built with the MERN stack, utilizing JWT for user authentication. Stores user data in MongoDB with a focus on backend security and seamless frontend integration.',
     tech: ['React.js', 'Node.js', 'Express', 'MongoDB', 'JWT'],
     image: 'https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80', // Placeholder: Tech-related image
-    liveLink: 'https://your-jwt-auth-link.netlify.app', // Replace with your live link
-    githubLink: 'https://github.com/yourusername/jwt-auth', // Replace with your GitHub link
+    liveLink: 'https://stellular-tulumba-c97ed4.netlify.app', // Replace with your live link
+    githubLink: 'https://github.com/prateekmtri/mern', // Replace with your GitHub link
   },
   {
     title: 'Duo Studio Website',
@@ -31,8 +31,8 @@ const projects = [
       'A visually stunning website crafted with HTML, CSS, and JavaScript, featuring a plethora of animations to enhance user experience. Designed with creativity and responsiveness in mind.',
     tech: ['HTML', 'CSS', 'JavaScript'],
     image: 'https://images.unsplash.com/photo-1547658719-da2b51169166?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80', // Placeholder: Creative design image
-    liveLink: 'https://your-duo-studio-link.netlify.app', // Replace with your live link
-    githubLink: 'https://github.com/yourusername/duo-studio', // Replace with your GitHub link
+    liveLink: 'https://stunning-sable-672cec.netlify.app', // Replace with your live link
+    githubLink: 'https://github.com/prateekmtri/duo-project', // Replace with your GitHub link
   },
 ];
 
